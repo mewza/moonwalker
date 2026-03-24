@@ -7,7 +7,10 @@ ShaderToy shader: https://www.shadertoy.com/view/7cB3R3
 1. Download .bvh file from some archive and name it moonwalk.bvh
 2. run these two commands:
 
- % python3 extract_mocap.py\npython3 format_glsl.py
+ ```bash
+python3 extract_mocap.py
+python3 format_glsl.py
+```
 
 it will produce a file "moonwalk_glsl_formatted.glsl" in the same
 directory.
