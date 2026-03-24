@@ -20,7 +20,7 @@ Common tab of the ShaderToy mentioned above, Save.
 
 It will apply whatever dance you downloaded to the scene.
 
-Good luck, Demosensei
+Good luck, Demosense
 
   Emai: subband@gmail.com
 GitHub: https://github.com/mewza 
